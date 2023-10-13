@@ -1,4 +1,3 @@
-# geekfest2023bell
 # Marathon de Programmation Geekfest de Bell 2023
 
 ## Objectif 🎯
@@ -26,7 +25,8 @@ L'application sera capable ... :
 ## Ressources 📘
 
 - [Bell geekfest hackathon 2023 Québec](https://challenges.hackworks.com/fr/event/bell-geekfest-hackathon-2023-quebec)
-- [Lien vers Slack pour le Geekfest](https://app.slack.com/client/T060Y2WAQD7/C060KDK3LF4)
+- [Lien Slack pour le Geekfest](https://app.slack.com/client/T060Y2WAQD7/C060KDK3LF4)
+- [Lien Github repo](https://github.com/hatmath/geekfest2023bell)
 
 ## Évaluation 📝
 
